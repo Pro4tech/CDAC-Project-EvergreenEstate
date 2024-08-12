@@ -40,4 +40,5 @@ npm start       # To Start web-server on port 3000
 ```
 
 ## Key Points to Note
-- The Frontend Express React would host the Page on `Port 3000`
+- The Frontend React would serve the Page on `Port 3000`
+- The Backend SpringBoot would host the Server on `Port 8080` and has Swagger Enabled for API Testing Functionality
