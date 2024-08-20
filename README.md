@@ -39,6 +39,65 @@ npm install     # to Inialise with Required Packages
 npm start       # To Start web-server on port 3000
 ```
 
+## Sample Images
+- Home Page
+![HomePage](https://github.com/Pro4tech/CDAC-Project-EvergreenEstate/blob/main/Documentation/Images/Homepage.png)
+
+- Login Pages
+  - User Login
+![User Login](https://github.com/Pro4tech/CDAC-Project-EvergreenEstate/blob/main/Documentation/Images/User-Login.png)
+  
+  - Admin Login
+![Admin Login](https://github.com/Pro4tech/CDAC-Project-EvergreenEstate/blob/main/Documentation/Images/Admin-Login.png)
+
+- Reset Password
+![Reset Password](https://github.com/Pro4tech/CDAC-Project-EvergreenEstate/blob/main/Documentation/Images/Reset%20Password.png)
+  
+- User Registration
+![User Registration](https://github.com/Pro4tech/CDAC-Project-EvergreenEstate/blob/main/Documentation/Images/User_register_2.png)
+
+- User Dasboard
+![User Dasboard](https://github.com/Pro4tech/CDAC-Project-EvergreenEstate/blob/main/Documentation/Images/User_Dashboard.png)
+
+- User Added Properities
+![User Added Properities](https://github.com/Pro4tech/CDAC-Project-EvergreenEstate/blob/main/Documentation/Images/My%20Properties.png)
+
+- Individual Property View
+![Individual Property View](https://github.com/Pro4tech/CDAC-Project-EvergreenEstate/blob/main/Documentation/Images/Indi-Prop-1.png)
+![Individual Property View](https://github.com/Pro4tech/CDAC-Project-EvergreenEstate/blob/main/Documentation/Images/Indi-Prop-2.png)
+![Individual Property View](https://github.com/Pro4tech/CDAC-Project-EvergreenEstate/blob/main/Documentation/Images/Indi-Prop-3.png)
+
+- Wishlist
+![Wishlist](https://github.com/Pro4tech/CDAC-Project-EvergreenEstate/blob/main/Documentation/Images/Wishlist.png)
+
+- Search Functionality
+![Search Functionality](https://github.com/Pro4tech/CDAC-Project-EvergreenEstate/blob/main/Documentation/Images/Search-1.png)
+![Search Functionality](https://github.com/Pro4tech/CDAC-Project-EvergreenEstate/blob/main/Documentation/Images/Search-2.png)
+
+- Contact Owner
+![Contact Owner](https://github.com/Pro4tech/CDAC-Project-EvergreenEstate/blob/main/Documentation/Images/Contact%20Owner.png)
+  - Email Trigger Feature
+![Email Trigger Feature](https://github.com/Pro4tech/CDAC-Project-EvergreenEstate/blob/main/Documentation/Images/Email%20Trigger.png)
+![Sample Email](https://github.com/Pro4tech/CDAC-Project-EvergreenEstate/blob/main/Documentation/Images/Sample%20Email_Trigger.png)
+    
+  - Display Owner Contact Details
+![Display Owner Contact Details](https://github.com/Pro4tech/CDAC-Project-EvergreenEstate/blob/main/Documentation/Images/Phone_Contact.png)
+
+- Admin User Dashboard
+  - Portal Analystics
+![Portal Analystics](https://github.com/Pro4tech/CDAC-Project-EvergreenEstate/blob/main/Documentation/Images/Admin_DashBoard.png)
+
+  - Admin User List
+ ![Admin User List-1](https://github.com/Pro4tech/CDAC-Project-EvergreenEstate/blob/main/Documentation/Images/Admin_user_2.png)
+![Admin User List-2](https://github.com/Pro4tech/CDAC-Project-EvergreenEstate/blob/main/Documentation/Images/Admin_user.png)
+
+  - Admin Property List
+![Admin Property List-1](https://github.com/Pro4tech/CDAC-Project-EvergreenEstate/blob/main/Documentation/Images/Admin_Property_2.png)
+![Admin Property List-2](https://github.com/Pro4tech/CDAC-Project-EvergreenEstate/blob/main/Documentation/Images/Admin_Property.png)
+
+  - Admin User Profile
+![Admin User Profile](https://github.com/Pro4tech/CDAC-Project-EvergreenEstate/blob/main/Documentation/Images/admin_Profile.png)
+
 ## Key Points to Note
 - The Frontend React would serve the Page on `Port 3000`
 - The Backend SpringBoot would host the Server on `Port 8080` and has Swagger Enabled for API Testing Functionality
